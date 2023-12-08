@@ -11,6 +11,9 @@
   "dependencies": {
     "@clerk/nextjs": "^4.27.5",
     "@radix-ui/react-slot": "^1.0.2",
+    "@tiptap/pm": "^2.1.13",
+    "@tiptap/react": "^2.1.13",
+    "@tiptap/starter-kit": "^2.1.13",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "lucide-react": "^0.294.0",
